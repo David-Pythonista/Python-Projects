@@ -1,3 +1,5 @@
+# Python-projects: QR code detector
+
 Use the sample pictures to test the program. It will find and mark the QR codes in the picture.
 
 Run the program and the GUI will showed up:

@@ -1,4 +1,4 @@
-Python-projects: Trading-bot [in progress]
+# Python-projects: Trading-bot [in progress]
 
 This program is made for testing different methodes efficiency in trading.
 
